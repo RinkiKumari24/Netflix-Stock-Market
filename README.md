@@ -1,1 +1,1 @@
-# Netflix-Stock-Market
+Netflix Stock Market dashboard in Power BI
